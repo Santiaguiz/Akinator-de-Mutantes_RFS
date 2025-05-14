@@ -1,0 +1,486 @@
+[
+  {
+    "name": "Wolverine",
+    "hair": "negro",
+    "powers": [
+      "regeneracion",
+      "garras adamantium"
+    ],
+    "affiliation": "X-Men",
+    "gender": "masculino",
+    "nationality": "canadiense"
+  },
+  {
+    "name": "Storm",
+    "hair": "blanco",
+    "powers": [
+      "control clima",
+      "viento",
+      "rayo"
+    ],
+    "affiliation": "X-Men",
+    "gender": "femenino",
+    "nationality": "africana"
+  },
+  {
+    "name": "Jean Grey",
+    "hair": "rojo",
+    "powers": [
+      "telequinesis",
+      "telepatia"
+    ],
+    "affiliation": "X-Men",
+    "gender": "femenino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Cyclops",
+    "hair": "castaño",
+    "powers": [
+      "rayo optico"
+    ],
+    "affiliation": "X-Men",
+    "gender": "masculino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Magneto",
+    "hair": "blanco",
+    "powers": [
+      "magnetismo"
+    ],
+    "affiliation": "Hermandad de Mutantes",
+    "gender": "masculino",
+    "nationality": "alemán"
+  },
+  {
+    "name": "Mystique",
+    "hair": "rojo",
+    "powers": [
+      "metamorfosis"
+    ],
+    "affiliation": "Hermandad de Mutantes",
+    "gender": "femenino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Nightcrawler",
+    "hair": "azul",
+    "powers": [
+      "teletransportacion"
+    ],
+    "affiliation": "X-Men",
+    "gender": "masculino",
+    "nationality": "alemán"
+  },
+  {
+    "name": "Rogue",
+    "hair": "castano",
+    "powers": [
+      "absorcion poderes"
+    ],
+    "affiliation": "X-Men",
+    "gender": "femenino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Professor X",
+    "hair": "calvo",
+    "powers": [
+      "telepatia"
+    ],
+    "affiliation": "X-Men",
+    "gender": "masculino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Beast",
+    "hair": "azul",
+    "powers": [
+      "fuerza",
+      "agilidad"
+    ],
+    "affiliation": "X-Men",
+    "gender": "masculino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Armor",
+    "hair": "negro",
+    "powers": [
+      "campo de energía",
+      "defensa"
+    ],
+    "affiliation": "X-Men",
+    "gender": "femenino",
+    "nationality": "japonesa"
+  },
+  {
+    "name": "Dust",
+    "hair": "negro",
+    "powers": [
+      "arena",
+      "camuflaje"
+    ],
+    "affiliation": "X-Men",
+    "gender": "femenino",
+    "nationality": "afgana"
+  },
+  {
+    "name": "Elixir",
+    "hair": "rubio",
+    "powers": [
+      "curación",
+      "muerte biológica"
+    ],
+    "affiliation": "X-Men",
+    "gender": "masculino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Hellion",
+    "hair": "negro",
+    "powers": [
+      "telequinesis"
+    ],
+    "affiliation": "X-Men",
+    "gender": "masculino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Pixie",
+    "hair": "rosado",
+    "powers": [
+      "alas",
+      "teletransporte",
+      "polvo de ilusión"
+    ],
+    "affiliation": "X-Men",
+    "gender": "femenino",
+    "nationality": "galesa"
+  },
+  {
+    "name": "Surge",
+    "hair": "azul",
+    "powers": [
+      "electricidad",
+      "super velocidad"
+    ],
+    "affiliation": "X-Men",
+    "gender": "femenino",
+    "nationality": "japonesa"
+  },
+  {
+    "name": "Bling!",
+    "hair": "plateado",
+    "powers": [
+      "piel de diamante",
+      "proyección de energía"
+    ],
+    "affiliation": "X-Men",
+    "gender": "femenino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Gentle",
+    "hair": "negro",
+    "powers": [
+      "fuerza descomunal",
+      "control muscular"
+    ],
+    "affiliation": "X-Men",
+    "gender": "masculino",
+    "nationality": "wakandiano"
+  },
+  {
+    "name": "Oya",
+    "hair": "negro",
+    "powers": [
+      "control de fuego",
+      "control de hielo"
+    ],
+    "affiliation": "X-Men",
+    "gender": "femenino",
+    "nationality": "nigeriana"
+  },
+  {
+    "name": "Trance",
+    "hair": "naranja",
+    "powers": [
+      "proyección astral",
+      "camuflaje psíquico"
+    ],
+    "affiliation": "X-Men",
+    "gender": "femenino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Anole",
+    "hair": "verde",
+    "powers": [
+      "camuflaje",
+      "regeneración",
+      "trepar paredes"
+    ],
+    "affiliation": "X-Men",
+    "gender": "masculino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Rockslide",
+    "hair": "sin cabello",
+    "powers": [
+      "forma rocosa",
+      "super fuerza"
+    ],
+    "affiliation": "X-Men",
+    "gender": "masculino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Loa",
+    "hair": "violeta",
+    "powers": [
+      "desintegración molecular"
+    ],
+    "affiliation": "X-Men",
+    "gender": "femenino",
+    "nationality": "hawaiana"
+  },
+  {
+    "name": "Match",
+    "hair": "fuego",
+    "powers": [
+      "piromancia",
+      "resistencia al fuego"
+    ],
+    "affiliation": "X-Men",
+    "gender": "masculino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Stepford Cuckoos",
+    "hair": "rubio",
+    "powers": [
+      "telepatía",
+      "mente colmena"
+    ],
+    "affiliation": "X-Men",
+    "gender": "femenino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Franklin Richards",
+    "hair": "rubio",
+    "powers": [
+      "Manipulacion de realidad",
+      "telepatía",
+      "telequinesis"
+    ],
+    "affiliation": "Fantastic Four",
+    "gender": "masculino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Magik",
+    "hair": "rubio",
+    "powers": [
+      "teletransportación",
+      "magia"
+    ],
+    "affiliation": "New Mutants",
+    "gender": "femenino",
+    "nationality": "rusa"
+  },
+  {
+    "name": "Coloso",
+    "hair": "negro",
+    "powers": [
+      "fuerza",
+      "piel metálica"
+    ],
+    "affiliation": "X-Men",
+    "gender": "masculino",
+    "nationality": "ruso"
+  },
+  {
+    "name": "Psylocke",
+    "hair": "negro",
+    "powers": [
+      "telepatía",
+      "armas psíquicas"
+    ],
+    "affiliation": "X-Men",
+    "gender": "femenino",
+    "nationality": "británica"
+  },
+  {
+    "name": "Angel",
+    "hair": "rubio",
+    "powers": [
+      "alas",
+      "vuelo",
+      "regeneración"
+    ],
+    "affiliation": "X-Men",
+    "gender": "masculino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Emma Frost",
+    "hair": "rubio",
+    "powers": [
+      "telepatia",
+      "forma diamante"
+    ],
+    "affiliation": "X-Men",
+    "gender": "femenino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Jubilee",
+    "hair": "negro",
+    "powers": [
+      "explosiones de energía",
+      "pirotecnia"
+    ],
+    "affiliation": "X-Men",
+    "gender": "femenino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Havok",
+    "hair": "rubio",
+    "powers": [
+      "Absorcion de energia",
+      "proyeccion de plasma"
+    ],
+    "affiliation": "X-Men",
+    "gender": "masculino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Polaris",
+    "hair": "verde",
+    "powers": [
+      "magnetismo"
+    ],
+    "affiliation": "X-Factor",
+    "gender": "femenino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Forge",
+    "hair": "negro",
+    "powers": [
+      "Habilidad intuitiva de inventar dispositivos mecánicos, comprenderlos y utilizarlos",
+      "tecnopatía"
+    ],
+    "affiliation": "X-Men",
+    "gender": "masculino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Dazzler",
+    "hair": "rubio",
+    "powers": [
+      "Conversión de sonido en luz"
+    ],
+    "affiliation": "X-Men",
+    "gender": "femenino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Armor",
+    "hair": "negro",
+    "powers": [
+      "armadura psiónica"
+    ],
+    "affiliation": "X-Men",
+    "gender": "femenino",
+    "nationality": "japonesa"
+  },
+  {
+    "name": "X-23",
+    "hair": "negro",
+    "powers": [
+      "regeneración",
+      "garras de adamantium"
+    ],
+    "affiliation": "X-Force",
+    "gender": "femenino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Bishop",
+    "hair": "negro",
+    "powers": [
+      "absorción de energía"
+    ],
+    "affiliation": "X-Men",
+    "gender": "masculino",
+    "nationality": "australiano"
+  },
+  {
+    "name": "Sunspot",
+    "hair": "negro",
+    "powers": [
+      "energía solar",
+      "super fuerza"
+    ],
+    "affiliation": "New Mutants",
+    "gender": "masculino",
+    "nationality": "brasileño"
+  },
+  {
+    "name": "Ice Man",
+    "hair": [
+      "azul",
+      "negro"
+    ],
+    "powers": [
+      "Creación de hielo",
+      "Absorción de calor",
+      "Conversión de su cuerpo en hielo orgánico"
+    ],
+    "affiliation": "X-Men",
+    "gender": "masculino",
+    "nationality": "estadounidense"
+  },
+  {
+    "name": "Gambito",
+    "gender": "Masculino",
+    "hair": "Negro",
+    "powers": [
+      "Carga Energia Cinetica"
+    ],
+    "affiliation": "X-Men",
+    "nationality": "Estadounidense"
+  },
+  {
+    "name": "APOCALIPSIS",
+    "gender": "masculino",
+    "hair": "calvo",
+    "powers": [
+      "regenracion",
+      "curar con su sangre",
+      "telequinesis ",
+      "Telepatia",
+      "Tecnokinesis",
+      "Sangre Curativa",
+      "Superfuerza"
+    ],
+    "affiliation": "no  tiene ",
+    "nationality": "Egipcio"
+  },
+  {
+    "name": "Vulcan",
+    "gender": "Masculino",
+    "hair": "Negro",
+    "powers": [
+      "Absorcion de Energia"
+    ],
+    "affiliation": "Imperio Shi'ar",
+    "nationality": "Estadounidense"
+  }
+]
